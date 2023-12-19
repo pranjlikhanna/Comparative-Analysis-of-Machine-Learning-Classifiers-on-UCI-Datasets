@@ -1,4 +1,4 @@
-![image](https://github.com/pranjlikhanna/COGS118A/assets/138069861/7ba96d09-6991-41de-8626-b6cdc075b676)![image](https://github.com/pranjlikhanna/COGS118A/assets/138069861/6dac699a-fd5e-4a48-9d6f-41f26fb1fbb7)# Comparative Analysis of Machine Learning Classifiers on UCI Datasets
+# Comparative Analysis of Machine Learning Classifiers on UCI Datasets
 This study conducts a comprehensive analysis of three popular machine learning classifiers - Logistic Regression, SVM, and Random Forests- on three datasets from the UCI repository: Adult, German Credit, and Breast Cancer Wisconsin Diagnostic. Employing cross-validation techniques, we identify optimal hyperparameters for each classifier and dataset combination. Our findings offer insights into the classifiers' performance, measured by accuracy across varying data partitions. The results demonstrate notable trends in classifier effectiveness, with implications for practical applications in predictive modeling.
 
 ## Introduction
